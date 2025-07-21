@@ -23,7 +23,7 @@ No **Speech Playground**, foi realizado o upload do arquivo `WhatAICanDo.m4a`. A
 ### ✅ Resultado:
 - O áudio foi transcrito com alta precisão.
 - O texto foi exibido em tempo real enquanto o áudio era reproduzido.
-- [Veja a imagem](./images/speech-transcription.png)
+- [Veja a imagem](https://github.com/Ryanleoncoder/azure-ai-labs/blob/main/images/speech-transcription.PNG)
 
 ---
 
